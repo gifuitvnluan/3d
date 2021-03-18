@@ -62,9 +62,9 @@ loader.crossOrigin = true;
 // https://s3-us-west-2.amazonaws.com/s.cdpn.io/39255/ladybug.gltf
 // https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF/Duck.gltf
 // https://static.radulescu.me/codepen/sword/scene.gltf
-loader.load( './Bee.glb', function ( data ) {
+loader.load( './baymax.glb', function ( data ) {
     var object = data.scene;
-     object.position.set(00, -10, -0);
+     object.position.set(0, -0, 0);
     // object.scale.set(0.5,0.5,0.5);
     scene.add( object );
 });
