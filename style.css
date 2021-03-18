@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+/* **************
+Created using a tutorial from Redstapler
+GLTF 3D Model from Shaw Pen https://codepen.io/shshaw/pen/yPPOEg
+************** */
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+}
